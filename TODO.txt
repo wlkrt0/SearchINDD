@@ -1,0 +1,5 @@
+test SQLite on macOS
+create directory picker
+test hibernate
+create file parser
+add search function
